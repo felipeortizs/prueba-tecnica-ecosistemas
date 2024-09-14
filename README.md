@@ -44,6 +44,8 @@ Cada empresa tiene un esquema de facturación diferente:
 ### 6. Automatización del Envío de Correos
 - Se genera un archivo **.xlsx** con los resultados de facturación y se envía por correo electrónico utilizando **Microsoft Outlook** con la biblioteca `win32com.client`.
 
+![OUTLOOK](media/outlook.png)
+
 ## Instalación y Requisitos
 
 ### Requisitos Previos
