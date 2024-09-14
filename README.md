@@ -1,5 +1,8 @@
 # Solución de Facturación Automatizada para Empresas Financieras
 
+![Arquitectura de la solución](media/Arquitectura_solución_bancolombia.png)
+
+
 ## Descripción
 
 En un entorno financiero donde la precisión y la eficiencia son factores clave, **BATSEJ OPEN FINANCE S.A** ofrece soluciones para la verificación de cuentas bancarias activas a través de APIs, mejorando la confianza, previniendo fraudes y proporcionando un servicio seguro y eficiente.
@@ -103,17 +106,17 @@ Se realizó un conteo de la cantidad de registros según los campos categóricos
 
 ### Campo `ASK_STATUS`
 
-IMAGEN
+![ASK_STATUS](media/status.png)
 
 ### Campo `IS_RELATED`
 
-IMAGEN
+![IS_RELATED](media/related.png)
 
 ### Campo `COMMERCE_NAME`
 
-IMAGEN
+![COMMERCE_NAME](media/commerce_name.png)
 
 ### Campo `COMMERCE_STATUS`
 
-IMAGEN
+![COMMERCE_STATUS](media/commerce_status.png)
 
